@@ -15,6 +15,7 @@ The system has the following classes
 6. Booking.java - Contains all information in order to book any room
 7. RoomBook.java - Contains mapping between booking and room
 8. Hotel.java - Contains information about all rooms available
+9. ReservationTest.java - Simple junit test cases
 
 Since no database is used, a few data structures are used to temporarily store all data during runtime.
 1. List<Room> standardList - located in Hotel class. Holds all available standard rooms
